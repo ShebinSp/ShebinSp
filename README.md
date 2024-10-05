@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there, I am Shebin👋
+### Welcome to my repo..
+
+🔭 I’m currently working on a utility website  
+🌱 I’m currently learning python!  
+💬 Ask me about Golang...  
+⚡ Fun fact: <span style="color:#00ff00"> The First Computer Bug Was a Literal Bug!</span>
+
+### 📫 Connect with me:
+- [GitHub](https://github.com/ShebinSp)  
+- [Email](https://shebinsp777@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/shebin-philip-5b0143225)
 
 <!--
 **ShebinSp/ShebinSp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
