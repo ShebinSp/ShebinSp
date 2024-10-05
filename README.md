@@ -1,5 +1,5 @@
 ## Hi there, I am Shebin👋
-### Welcome to my repo..
+### Welcome to my repository..
 
 🔭 I’m currently working on a utility website  
 🌱 I’m currently learning python!  
