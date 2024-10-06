@@ -1,11 +1,15 @@
-## Hi there, I am Shebin👋
-### Welcome to my repository..
+## 🙋 Hi there, I am Shebin, a self-learner! 👋
+### 👻 Welcome to my repository 👻
 
-🔭 I’m currently working on a `#ffffff` utility website and learning python!
-💬 Ask me about **Golang**...  
-⚡ Fun fact: <span style="color:#00ff00"> The First Computer Bug Was a Literal Bug!</span>
 
-### 📫 Connect with me:
+⚙️ I’m currently working on a utility website and researching Python.  
+🫱🏻‍🫲🏻 Ask me about **Golang!**  
+⚡ Fun fact: *The first computer bug was a literal bug!* 🫣
+
+**About Me 🧬**  
+  I’m Shebin, a self-driven learner from Kannur, Kerala. With a background in Golang, REST APIs, and frontend development, I have experience with technologies such as Go, Gin, GORM, Docker, CI/CD, Linux, SQL, and NoSQL databases. Currently, I’m exploring microservices using Go, Kubernetes, and Python. Passionate about direct database handling and continuously expanding my tech skills, I’m eager to contribute and learn in the tech community.  
+  
+#### 📫 Connect with Me:
 - [GitHub](https://github.com/ShebinSp)  
 - [Email](https://shebinsp777@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/shebin-philip-5b0143225)
