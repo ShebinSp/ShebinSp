@@ -1,9 +1,8 @@
 ## Hi there, I am Shebin👋
 ### Welcome to my repository..
 
-🔭 I’m currently working on a utility website  
-🌱 I’m currently learning python!  
-💬 Ask me about Golang...  
+🔭 I’m currently working on a `#ffffff` utility website and learning python!
+💬 Ask me about **Golang**...  
 ⚡ Fun fact: <span style="color:#00ff00"> The First Computer Bug Was a Literal Bug!</span>
 
 ### 📫 Connect with me:
