@@ -7,7 +7,7 @@
 ⚡ Fun fact: *The first computer bug was a literal bug!* 🫣
 
 **About Me 🧬**  
-  I’m Shebin, a self-driven learner from Kannur, Kerala. With a background in Golang, REST APIs, and frontend development, I have experience with technologies such as Go, Gin, GORM, Docker, CI/CD, Linux, SQL, and NoSQL databases. Currently, I’m exploring microservices using Go, Kubernetes, and Python. Passionate about direct database handling and continuously expanding my tech skills, I’m eager to contribute and learn in the tech community.  
+  I’m Shebin, a self-driven learner from Kannur, Kerala. With a background in Golang, REST APIs, and backend development, I have experience with technologies such as Go, Gin, GORM, Docker, CI/CD, Linux, SQL, and NoSQL databases. Currently, I’m exploring microservices using Go, Kubernetes, and Python. Passionate about direct database handling and continuously expanding my tech skills, I’m eager to contribute and learn in the tech community.  
   
 #### 📫 Connect with Me:
 - [GitHub](https://github.com/ShebinSp)  
