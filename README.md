@@ -2,8 +2,8 @@
 ### 👻 Welcome to my repository 👻
 
 
-⚙️ I’m a self-thought golang developer who has a backgorund in automobile. Feel free to checkout my repositories..  
-🫱🏻‍🫲🏻 Ask me about **Golang!**  
+⚙️ I’m a self-taught Golang developer with a background in the automobile industry. 
+🫱🏻‍🫲🏻 Ask me about **Golang!** also feel free to check out my repositories... 
 ⚡ Fun fact: *The first computer bug was a literal bug!* 🫣
 
 **About Me 🧬**  
