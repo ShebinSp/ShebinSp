@@ -2,7 +2,7 @@
 ### 👻 Welcome to my repository 👻
 
 
-⚙️ I’m currently working on a utility website and researching Python.  
+⚙️ I’m a self-thought golang developer who has a backgorund in automobile. Feel free to checkout my repositories..  
 🫱🏻‍🫲🏻 Ask me about **Golang!**  
 ⚡ Fun fact: *The first computer bug was a literal bug!* 🫣
 
